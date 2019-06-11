@@ -1,4 +1,4 @@
-# airbnb_paris
+# Airbnb Listings in Paris
 Analyze Airbnb listings in Paris
 
 ## Motivation
