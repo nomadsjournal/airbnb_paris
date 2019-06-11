@@ -15,5 +15,5 @@ My goal is to see if there's any distinction between the superhosts and non-supe
 - Written in Python
 - Data Visualization: matplotlib, seaborn, plotly
 - Clustering: K-means, Mean Shift
-- NLP: CountVectorizer, tf-idf, LSA
+- NLP: CountVectorizer, bigram, tf-idf, LSA
 - Modeling: Random Forest, Logistic Regression, Gradient Descent
